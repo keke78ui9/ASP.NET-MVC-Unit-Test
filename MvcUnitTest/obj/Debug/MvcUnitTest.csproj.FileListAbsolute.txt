@@ -1,0 +1,12 @@
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\MvcUnitTest.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\MvcUnitTest.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\EntityFramework.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\Ninject.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\EntityFramework.xml
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\obj\Debug\MvcUnitTest.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\obj\Debug\MvcUnitTest.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\MvcUnitTest.BusinessLogic.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\MvcUnitTest.BusinessLogic.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\MvcUnitTest.Data.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest\bin\MvcUnitTest.Data.pdb

@@ -1,0 +1,5 @@
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Data\bin\Debug\MvcUnitTest.Data.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Data\bin\Debug\MvcUnitTest.Data.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Data\obj\Debug\MvcUnitTest.Data.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Data\obj\Debug\MvcUnitTest.Data.pdb

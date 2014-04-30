@@ -1,0 +1,16 @@
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.Tests.dll.config
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.Tests.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.Tests.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\Moq.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\Ninject.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\Moq.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\Moq.xml
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\obj\Debug\MvcUnitTest.Tests.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\obj\Debug\MvcUnitTest.Tests.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.BusinessLogic.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.BusinessLogic.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.Data.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.Tests\bin\Debug\MvcUnitTest.Data.pdb

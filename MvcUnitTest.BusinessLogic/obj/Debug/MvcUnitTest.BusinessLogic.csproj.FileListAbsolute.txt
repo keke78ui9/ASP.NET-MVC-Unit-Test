@@ -1,0 +1,8 @@
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.BusinessLogic\bin\Debug\MvcUnitTest.BusinessLogic.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.BusinessLogic\bin\Debug\MvcUnitTest.BusinessLogic.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.BusinessLogic\obj\Debug\MvcUnitTest.BusinessLogic.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.BusinessLogic\obj\Debug\MvcUnitTest.BusinessLogic.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.BusinessLogic\bin\Debug\MvcUnitTest.Data.dll
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.BusinessLogic\bin\Debug\MvcUnitTest.Data.pdb
+C:\ADev\Dropbox\SampleAppsICreated\MvcUnitTest\MvcUnitTest.BusinessLogic\bin\Debug\Ninject.dll
